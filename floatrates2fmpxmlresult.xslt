@@ -2,6 +2,7 @@
 <!--
      Written by Gjermund G Thorsen 1999 - 2018, all rights deserved
      for the purpose of making available exchange rates in FileMaker 5 and up
+     Datasource: http://www.floatrates.com/daily/usd.xml
 -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output method='xml' version='1.0' encoding='iso-8859-1' indent='yes' />
