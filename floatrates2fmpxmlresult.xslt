@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Written by Gjermund G Thorsen 1999 - 2018, all rights deserved
+     Written by Gjermund Gusland Thorsen 1999 - 2018, all rights deserved
      for the purpose of making available exchange rates in FileMaker 5 and up
      Datasource: http://www.floatrates.com/daily/usd.xml
                  http://www.floatrates.com/daily/eur.xml
